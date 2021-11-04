@@ -1,0 +1,22 @@
+body{
+    background-color: #212529;
+}
+#fashionpic{
+        display: inline-block;
+        position: relative;;
+        width: 70%;
+        margin-left: -13%;
+        margin-top: 8%;
+}
+#sec1{
+    position: fixed;
+    width: 90%;
+    margin: auto !important;
+}
+.dispic{
+    width: 70%;
+}
+#txts{
+    display: inline-block;
+    width: 30%;
+}
